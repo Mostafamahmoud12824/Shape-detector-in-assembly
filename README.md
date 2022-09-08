@@ -8,3 +8,11 @@ characters through the numbers from 0 to 9 like old mobiles.
 For example, 1 or 2 seconds.
 • Bonus: Instead of delays between viewed characters, the
 characters should move from right to left
+A complete flow chart for your program
+• Procedures description that contains
+o Task accomplished by the procedure.
+o List of input parameters and their usage.
+o Description of any value calculated/returned by the
+procedure.
+o Preconditions that must be satisfied before the procedure is
+called.
