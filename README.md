@@ -1,4 +1,4 @@
-# String-drawer-in-assembly
+# String-drawer-in-assembly-8086
 Allowed characters are all English upper-case characters and
 the numbers.
 • Keypad has to have the ability of entering all the English
